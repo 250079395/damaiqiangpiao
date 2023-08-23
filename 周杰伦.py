@@ -14,7 +14,7 @@ damai_url = 'https://www.damai.cn/'
 # 登录
 login_url = 'https://passport.damai.cn/login?ru=https%3A%2F%2Fwww.damai.cn%2F'
 # 抢票目标页
-target_url = 'https://detail.damai.cn/item.htm?spm=a2oeg.search_category.0.0.749a2ecbX3EHsb&id=699777108426&clicktitle=KY%E4%B9%90%E5%9B%A2%E2%80%9C%E5%85%89%E8%BE%89%E5%B2%81%E6%9C%88%E2%80%9D%E7%BA%AA%E5%BF%B5%E9%BB%84%E5%AE%B6%E9%A9%B9%C2%B7%E8%87%B4%E6%95%ACBEYOND%E5%9B%9B%E5%8D%81%E5%91%A8%E5%B9%B4%E5%B7%A1%E5%9B%9E%E8%A7%86%E5%90%AC%E6%BC%94%E5%94%B1%E4%BC%9A%E2%80%94%E2%80%94(%E4%B8%8A%E6%B5%B7%E7%AB%99%EF%BC%89%E9%BB%84%E8%B4%AF%E4%B8%AD%E5%8A%9B%E8%8D%90%E7%9A%84%E5%A3%B0%E9%9F%B3'
+target_url = 'https://detail.damai.cn/item.htm?spm=a2oeg.search_category.0.0.43a11e33rEoZZs&id=731793069282&clicktitle=%E9%9D%92%E5%B2%9B%E5%9B%BD%E9%99%85%E5%95%A4%E9%85%92%E8%8A%82%C2%B7%E6%B5%B7%E6%BD%AE%E5%AE%87%E5%AE%99%E9%9F%B3%E4%B9%90%E8%8A%82-%E9%9D%92%E5%B2%9B%E7%AB%99%E3%80%90%E5%86%85%E5%9C%BA%E6%97%A0%E5%BA%A7%E3%80%91'
 
 # class Concert:
 class Concert:
